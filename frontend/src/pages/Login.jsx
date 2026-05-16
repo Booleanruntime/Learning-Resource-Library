@@ -93,7 +93,7 @@ const Login = () => {
     try {
       const { data } = await axiosInstance.post('/api/auth/login', formData);
       login(data);
-      navigate('/resources');
+      navigate(data.role === 'admin' ? '/admin/dashboard' : '/resources');
     } catch {
       setBannerError('Invalid login credentials');
     } finally {
