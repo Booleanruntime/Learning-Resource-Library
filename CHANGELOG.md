@@ -1,6 +1,6 @@
 # Changelog
 
-## [Unreleased]
+## [1.0.0]
 
 ### Added 
 — [LRL-5] Add ablitiy to browse learning resources
@@ -10,4 +10,9 @@
 — [LRL-17] Add ability to create categories (admin)
 — [LRL-18] Add ability to edit categories (admin)
 — [LRL-19] Add ability to delete categories with confirmation (admin)
+— [LRL-14] Add ability to save resources to bookmarks with active/inactive toggle state
+— [LRL-15] Add ability to view saved bookmarks on a dedicated page
+— [LRL-16] Add ability to remove bookmarks from the bookmarks page
+- [LRL-80] Implement Unit tests via ci/cd
+- [LRL-81] Implement cloud hosting
 
