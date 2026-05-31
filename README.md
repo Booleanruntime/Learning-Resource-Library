@@ -77,5 +77,5 @@ Frontend runs on `http://localhost:3000`, backend on `http://localhost:5001`.
 
 ## Project Links
 
-- **Live app:** TBD
-- **JIRA board:** TBD
+- **Live app:** https://main.d11i2kqy5buvx0.amplifyapp.com
+- **JIRA board:** https://connect-team-k0lanyww.atlassian.net/jira/software/projects/LRL/summary
